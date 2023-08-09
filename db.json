@@ -1,9 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "clientes": [
+    {
+      "nombre": "Josue",
+      "empresa": "Codigo Con Agus",
+      "email": "agus.rodriguez777@gg",
+      "telefono": "01160376215",
+      "notas": "Esto es un test",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Agus"
+    },
+    {
+      "nombre": "Agustin",
+      "empresa": "Company2",
+      "email": "agus.rodriguez777@gmail.com",
+      "telefono": "01160376215",
+      "notas": "Es un cliente",
+      "id": 6
+    },
+    {
+      "nombre": "Agustin",
+      "empresa": "Company3",
+      "email": "agus.rodriguez777@gmail.com",
+      "telefono": "01160376215",
+      "notas": "Hello",
+      "id": 8
+    }
+  ]
 }
